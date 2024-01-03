@@ -18,8 +18,11 @@
             "expect-webdriverio",
             "wdio-vscode-service"
         ]
-    },
+    }
+    }
     "exclude": [
+    ],
+    ],
         "node_modules",
         ".vscode-test",
         "_site"
